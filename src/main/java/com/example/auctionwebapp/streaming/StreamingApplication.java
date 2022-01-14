@@ -1,4 +1,4 @@
 package com.example.auctionwebapp.streaming;
 
-public class StreamingService {
+public class StreamingApplication {
 }
